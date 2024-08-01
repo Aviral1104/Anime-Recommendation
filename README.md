@@ -32,3 +32,10 @@ get_recommendations Method (in AnimeRecommenderApp): This method is called when 
 Main Execution: 
 Creates the tkinter root window, initializes the AnimeRecommenderApp, and starts the main event loop.
 Creates a user-friendly interface for getting anime recommendations based on a user's ID and preferred genres. It uses collaborative filtering (via KNN) to find similar users and recommend anime that those similar users have rated highly, while also considering the user's genre preferences.
+
+Output:
+![WhatsApp Image 2024-08-01 at 11 48 07_8693371c](https://github.com/user-attachments/assets/3f42a3c9-5f7b-45f7-bbb4-415766a593e2)
+
+![WhatsApp Image 2024-08-01 at 11 42 24_108f883d](https://github.com/user-attachments/assets/a27943cd-d329-4946-9a0f-76613c66fdb1)
+
+NOTE: THERE IS AN ISSUE IN THE NAMES OF THE GENRE, I"LL UPDATE IT SOON!
